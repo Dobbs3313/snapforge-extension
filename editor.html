@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SnapForge Studio</title>
+  <style>
+    body { margin:0; background:#0b1120; color:#f8fafc; font-family:system-ui,-apple-system,sans-serif; display:flex; flex-direction:column; height:100vh; }
+    .toolbar { display:flex; flex-wrap:wrap; align-items:center; gap:8px; padding:10px 16px; background:#111827; border-bottom:1px solid rgba(148,163,184,0.2); }
+    .brand { font-weight:800; color:#fb923c; margin-right:8px; }
+    button, input[type="color"], select {
+      background:#1e293b; color:#f8fafc; border:1px solid rgba(148,163,184,0.25); border-radius:7px; padding:6px 10px; font-size:12px; font-weight:600; cursor:pointer;
+    }
+    button.active { background:#ea580c; border-color:#fb923c; color:#fff; }
+    button.primary { background:linear-gradient(135deg,#fb923c,#ea580c); border-color:transparent; color:#fff; }
+    .stage { flex:1; overflow:auto; display:flex; align-items:flex-start; justify-content:center; padding:24px; }
+    canvas { background:#1e293b; border-radius:8px; box-shadow:0 16px 48px rgba(0,0,0,0.5); max-width:100%; height:auto; cursor:crosshair; }
+    .rec-box { max-width:520px; margin:60px auto; background:#111827; border:1px solid rgba(251,146,60,0.35); border-radius:12px; padding:24px; text-align:center; }
+    .status { margin-left:auto; font-size:12px; color:#94a3b8; }
+    .hidden { display:none !important; }
+  </style>
+</head>
+<body>
+  <div class="toolbar">
+    <span class="brand">SnapForge Studio</span>
+    <button data-tool="arrow" class="active">↗ Arrow</button>
+    <button data-tool="rect">▭ Box</button>
+    <button data-tool="blur">▒ PII Blur</button>
+    <button data-tool="highlight">🖍 Highlight</button>
+    <button data-tool="pen">✎ Pen</button>
+    <button data-tool="text">T Text</button>
+    <input type="color" id="colorPicker" value="#fb923c" title="Color">
+    <button id="undoBtn">↶ Undo</button>
+    <button id="copyBtn" class="primary">📋 Copy PNG</button>
+    <button id="dlPngBtn">⬇ PNG</button>
+    <button id="dlWebpBtn">⬇ WebP</button>
+    <button id="printBtn">🖨 PDF</button>
+    <span class="status" id="statusText">Ready</span>
+  </div>
+  <div class="stage" id="editorStage">
+    <canvas id="canvas" width="960" height="540"></canvas>
+  </div>
+  <div class="rec-box hidden" id="recordStage">
+    <h2 style="margin-top:0;">WebM Tab / Screen Recorder</h2>
+    <p style="color:#94a3b8;">Captures high-FPS video with optional audio directly to a local <code>.webm</code> download — zero cloud uploads.</p>
+    <div style="display:flex;gap:10px;justify-content:center;margin:16px 0;">
+      <button id="recStartBtn" class="primary">● Start Recording</button>
+      <button id="recStopBtn" disabled>■ Stop & Save WebM</button>
+    </div>
+    <div id="recStatus" style="color:#fb923c;font-weight:700;">Idle</div>
+  </div>
+  <script src="editor.js"></script>
+</body>
+</html>

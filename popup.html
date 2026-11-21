@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SnapForge</title>
+  <link rel="stylesheet" href="ui-base.css">
+</head>
+<body>
+  <header class="app-header">
+    <div class="brand">
+      <img src="icons/icon48.png" alt="SnapForge">
+      <div>
+        <div class="brand-title">SnapForge</div>
+        <div class="brand-sub">Instant capture, PII blur & recorder</div>
+      </div>
+    </div>
+    <button class="tier-pill" id="tierPill">FREE</button>
+  </header>
+
+  <nav class="tabs">
+    <button class="tab-btn active" data-tab="capture">Capture</button>
+    <button class="tab-btn" data-tab="record">Record</button>
+    <button class="tab-btn" data-tab="pro">Pro</button>
+  </nav>
+
+  <main>
+    <section class="panel active" id="panel-capture">
+      <div class="card">
+        <div class="card-title">Screenshot Capture</div>
+        <div style="display:flex;flex-direction:column;gap:8px;">
+          <button class="btn btn-primary btn-block" id="captureVisibleBtn" style="padding:10px;">📸 Capture Visible Area</button>
+          <button class="btn btn-block" id="captureRegionBtn" style="padding:9px;">✂️ Select Region (Drag to Crop)</button>
+          <button class="btn btn-block" id="captureFullBtn" style="padding:9px;">📜 Full-Page Scrolling Stitch <span class="pro-tag">PRO</span></button>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-title">Built-in Editor Highlights</div>
+        <div class="muted">Opens a fast zero-bloat local canvas with Arrow, Box, Highlighter, Text, one-click <strong>PII Pixelate Blur</strong>, Copy-to-Clipboard, and PNG/WebP/PDF export.</div>
+        <button class="btn btn-sm btn-block" id="openLastBtn" style="margin-top:9px;">Open Last Capture in Editor</button>
+      </div>
+    </section>
+
+    <section class="panel" id="panel-record">
+      <div class="card">
+        <div class="card-title">Tab & Screen Video Recorder <span class="pro-tag">PRO</span></div>
+        <div class="row">
+          <span>Include Tab / System Audio</span>
+          <label class="switch"><input type="checkbox" id="recordAudioToggle" checked><span class="slider"></span></label>
+        </div>
+        <div class="muted" style="margin:8px 0 10px;">Audio is enabled by default (unlike bloated competitors) and saves crisp local WebM video with zero cloud uploads.</div>
+        <button class="btn btn-primary btn-block" id="startRecordBtn" style="padding:10px;">🎬 Launch Video Recorder Studio</button>
+      </div>
+    </section>
+
+    <section class="panel" id="panel-pro"></section>
+  </main>
+
+  <div class="toast" id="toast"></div>
+  <script type="module" src="popup.js"></script>
+</body>
+</html>
