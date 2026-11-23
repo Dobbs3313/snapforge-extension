@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — Снимци екрана и PII замућење",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Лаган MV3 снимак екрана, уређивач замућења личних података, цела страница и WebM снимање без праћења.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

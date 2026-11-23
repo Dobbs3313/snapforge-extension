@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — اسکرین‌شات و محو اطلاعات",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "اسکرین‌شات سبک MV3، ویرایشگر محو اطلاعات حساس، صفحه کامل و ضبط صفحه WebM بدون ردیابی.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

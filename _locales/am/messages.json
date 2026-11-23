@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — ስክሪንሾት እና PII ማደብዘዣ",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "ቀላል MV3 ስክሪንሾት፣ PII የግል መረጃ ማደብዘዣ፣ ሙሉ ገጽ ቅጂ እና WebM ቪዲዮ ቀረጻ ያለ ክትትል።",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

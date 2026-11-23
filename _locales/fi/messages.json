@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — Kuvankaappaus & PII-sumennus",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Kevyt MV3-kuvankaappaus, PII-sumennuseditori, koko sivun kaappaus ja WebM-tallennin ilman seurantaa.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

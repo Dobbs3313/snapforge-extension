@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — Tangkapan Skrin & Kabur PII",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Tangkapan skrin MV3 ringan, penyunting kabur PII, tangkap penuh halaman dan perakam skrin WebM tanpa penjejakan.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

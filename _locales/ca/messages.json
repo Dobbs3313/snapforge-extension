@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — Captura i Difuminat PII",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Captura de pantalla lleugera MV3, editor de difuminat PII, pàgina sencera i gravador WebM sense rastreig.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

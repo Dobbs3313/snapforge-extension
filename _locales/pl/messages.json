@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — Zrzuty Ekranu i Rozmycie PII",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Lekkie zrzuty ekranu MV3, rozmywanie wrażliwych danych PII, zrzuty całej strony i nagrywanie WebM bez śledzenia.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — স্ক্রিনশট ও PII ব্লার এডিটর",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "ট্র্যাকিংহীন হালকা MV3 স্ক্রিনশট, PII ব্লার অ্যানোটেটর, পূর্ণ-পৃষ্ঠা স্টিচ এবং WebM স্ক্রিন রেকর্ডার।",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

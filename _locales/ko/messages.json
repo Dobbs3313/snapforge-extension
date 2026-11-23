@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — 스크린샷 및 개인정보 블러",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "추적 없는 초경량 MV3 스크린샷, 개인정보 블러 편집기, 전체 페이지 캡처 및 WebM 화면 녹화기.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

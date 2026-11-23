@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — Ekraanipilt ja PII Hägusus",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Kerge MV3 ekraanipilt, tundlike andmete hägustaja, täislehe jäädvustus ja WebM ekraanisalvesti jälgimiseta.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

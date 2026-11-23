@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — צילומי מסך וטשטוש פרטים",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "כלי קל לצילום מסך MV3, טשטוש מידע רגיש, צילום עמוד מלא והקלטת מסך WebM ללא מעקב.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

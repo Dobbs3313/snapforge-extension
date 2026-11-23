@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — จับภาพหน้าจอ & เบลอ PII",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "จับภาพหน้าจอ MV3 น้ำหนักเบา เบลอข้อมูลส่วนตัว ต่อภาพทั้งหน้า และบันทึกหน้าจอ WebM แบบไร้การติดตาม",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

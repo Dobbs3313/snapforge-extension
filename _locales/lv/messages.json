@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — Ekrānuzņēmumi & PII",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Viegls MV3 ekrānuzņēmums, PII datu aizmiglošana, pilna lapa un WebM ekrāna ierakstītājs bez izsekošanas.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

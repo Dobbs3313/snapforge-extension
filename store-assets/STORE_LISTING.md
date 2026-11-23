@@ -2,9 +2,12 @@
 
 - **Title:** SnapForge — Featherweight Screenshot, PII Blu
 - **Category:** Productivity -> Tools
-- **Version:** 1.0.0
+- **Version:** 1.0.1
+- **Locales:** 56 Chrome Web Store languages (`_locales/`)
 - **Pricing:** Free with optional Stripe Pro upgrade ($2.99/mo · $19.99/yr · $29.99 Lifetime)
-- **Privacy Policy URL:** `https://github.com/Dobbs3313/snapforge-extension/blob/main/store-assets/PRIVACY_POLICY.md`
+- **Homepage URL:** `https://arisparty.org/extensions/snapforge`
+- **Support URL:** `https://arisparty.org/extensions/snapforge/support`
+- **Privacy Policy URL:** `https://arisparty.org/extensions/snapforge/privacy`
 
 ## Short Description (<= 132 chars)
 Featherweight Screenshot, PII Blur Annotator & Tab Recorder. Fast, privacy-first Manifest V3 utility with zero ads or telemetry.
@@ -23,6 +26,11 @@ Featherweight Screenshot, PII Blur Annotator & Tab Recorder. Fast, privacy-first
 - Built-in tab/screen WebM video recorder with 1-click tab/mic audio toggle
 - Numbered step callouts & gradient showcase padding frames
 - WebP / JPEG / print-to-PDF export & local capture gallery
+
+### Privacy & Support
+- Product & docs: https://arisparty.org/extensions/snapforge
+- Privacy policy: https://arisparty.org/extensions/snapforge/privacy
+- Support & setup: https://arisparty.org/extensions/snapforge/support (support@arisparty.org)
 
 ### Stripe Live Checkout Links
 - Monthly ($2.99/mo): https://buy.stripe.com/4gM7sLfnVbS92TRcD0g3605

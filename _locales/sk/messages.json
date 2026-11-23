@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — Snímky a rozmazanie PII",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Ľahký MV3 nástroj na snímky obrazovky, rozmazanie PII údajov, celú stránku a WebM nahrávanie bez sledovania.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

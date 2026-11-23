@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — Capturi Ecran și Estompare PII",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Capturi ecran MV3 ușoare, estompare date sensibile PII, pagină completă și înregistrare WebM fără urmărire.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

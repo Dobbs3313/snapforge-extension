@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — 截圖與隱私馬賽克",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "超輕量 MV3 網頁截圖、敏感資訊模糊標註、整頁拼接與 WebM 螢幕錄影工具，零追蹤無負擔。",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

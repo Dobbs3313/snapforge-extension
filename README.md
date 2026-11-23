@@ -4,6 +4,10 @@
 
 A fast, privacy-first Chrome Manifest V3 extension built by **ARIS PARTY LLC** to outperform **Scrnli Screen Recorder & Screenshot** (`ijejnggjjphlenbhmjhhgcdpehhacaal`, 1M+ users, 4.8★).
 
+- **Product Page:** https://arisparty.org/extensions/snapforge
+- **Privacy Policy:** https://arisparty.org/extensions/snapforge/privacy
+- **Support & Setup:** https://arisparty.org/extensions/snapforge/support (`support@arisparty.org`)
+
 ## Competitive Advantages
 - Replaces Scrnli (1M users, 13.1MB bloated bundle with debugger permission & FingerprintJS)
 - Over 200x smaller (~60KB vs 13.1MB) with instant popup load and zero browser slowdown
@@ -40,4 +44,4 @@ A fast, privacy-first Chrome Manifest V3 extension built by **ARIS PARTY LLC** t
 ```bash
 node tests/verify.mjs .
 ```
-Outputs a store-ready archive at `dist/snapforge-extension-v1.0.0.zip`.
+Outputs a store-ready archive with 56 `_locales` at `dist/snapforge-extension-v1.0.1.zip`.

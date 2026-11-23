@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — Chụp Màn Hình & Làm Mờ PII",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Chụp màn hình MV3 siêu nhẹ, làm mờ dữ liệu nhạy cảm PII, chụp cuộn trang và quay WebM không theo dõi.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — Ekran Görüntüsü ve PII",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Hafif MV3 ekran görüntüsü, PII bulanıklaştırma düzenleyicisi, tam sayfa yakalama ve izlemesiz WebM kaydedici.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

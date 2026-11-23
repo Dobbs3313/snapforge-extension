@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — Screenshot & PII Vervagen",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Lichte MV3-schermafbeelding, PII-vervaging, volledige pagina en WebM-schermopname zonder tracking.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

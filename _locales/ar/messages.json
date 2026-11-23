@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — لقطات الشاشة وتعتيم البيانات",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "أداة خفيفة لالتقاط الشاشة MV3، تمويه البيانات الحساسة، التقاط الصفحة كاملة وتسجيل WebM بدون تتبع.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

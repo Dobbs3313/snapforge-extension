@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — Στιγμιότυπα & Θόλωση PII",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Ελαφρύ MV3 στιγμιότυπο οθόνης, θόλωση ευαίσθητων δεδομένων, πλήρης σελίδα και εγγραφή WebM χωρίς ιχνηλάτηση.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

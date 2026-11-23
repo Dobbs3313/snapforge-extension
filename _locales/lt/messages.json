@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — Ekrano Nuotraukos ir PII",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Lengvos MV3 ekrano nuotraukos, PII duomenų suliejimas, visas puslapis ir WebM įrašymas be sekimo.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — Скриншоты и размытие PII",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Лёгкие скриншоты MV3, размытие личных данных, вся страница и запись экрана WebM без слежки и лишнего кода.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

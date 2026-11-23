@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — Captura e Desfoque PII",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Captura de ecrã leve MV3, editor com desfoque PII, página inteira e gravador WebM sem rastreio.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

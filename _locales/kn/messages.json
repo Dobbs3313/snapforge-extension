@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — ಸ್ಕ್ರೀನ್‌ಶಾಟ್ ಮತ್ತು PII ಬ್ಲರ್",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "ಟ್ರ್ಯಾಕಿಂಗ್ ಇಲ್ಲದ ಹಗುರ MV3 ಸ್ಕ್ರೀನ್‌ಶಾಟ್, PII ಬ್ಲರ್ ಎಡಿಟರ್, ಪೂರ್ಣ ಪುಟ ಸ್ಟಿಚ್ ಮತ್ತು WebM ರೆಕಾರ್ಡರ್.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

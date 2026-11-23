@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — Képernyőkép és PII Elmosás",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Pehelykönnyű MV3 képernyőkép, PII elmosó szerkesztő, teljes oldal és WebM képernyőrögzítő követés nélkül.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

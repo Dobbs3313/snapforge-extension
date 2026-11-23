@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — Screenshot & PII Annotator",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Featherweight MV3 screenshot, PII blur annotator, full-page stitch, and WebM screen recorder with zero tracking or bloat.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

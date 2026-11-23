@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — Screenshot at PII Blur",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Magaan na MV3 screenshot, PII blur editor, full-page capture, at WebM screen recorder na walang tracking.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

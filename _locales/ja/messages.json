@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — スクショ＆個人情報ぼかし",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "軽量MV3スクリーンショット、個人情報ぼかし編集、ページ全体結合、WebM画面録画をトラッキングなしで実現。",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

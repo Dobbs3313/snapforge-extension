@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — Picha ya Skrini na Kuficha PII",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Picha nyepesi ya skrini ya MV3, kihariri cha kuficha PII, ukurasa mzima na rekodi ya WebM bila ufuatiliaji.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

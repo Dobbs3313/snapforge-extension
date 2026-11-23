@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — திரைப்பிடிப்பு & PII மங்கலாக்கி",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "கண்காணிப்பு இல்லாத எளிய MV3 திரைப்பிடிப்பு, PII மங்கலாக்கி, முழு-பக்க படம் மற்றும் WebM திரைப் பதிவி.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

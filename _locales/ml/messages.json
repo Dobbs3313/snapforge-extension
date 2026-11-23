@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — സ്ക്രീൻഷോട്ട് & PII ബ്ലർ",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "ട്രാക്കിംഗില്ലാത്ത ലഘു MV3 സ്ക്രീൻഷോട്ട്, PII ബ്ലർ എഡിറ്റർ, ഫുൾ-പേജ് സ്റ്റിച്ചിംഗ്, WebM സ്ക്രീൻ റെക്കോർഡർ.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

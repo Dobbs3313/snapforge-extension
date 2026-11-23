@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — Zaslonske Slike in Zameglitev PII",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Lahki zajem zaslona MV3, orodje za zameglitev osebnih podatkov, cela stran in WebM snemalnik brez sledenja.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

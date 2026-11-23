@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — Capture & Floutage PII",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Capture d’écran légère MV3, floutage de données sensibles, pleine page et enregistreur WebM sans pistage.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — Skjermbilde og PII-sløring",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Lettvekts MV3 skjermbilde, PII-sløringsverktøy, helsides fanger og WebM-skjermopptaker uten sporing.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — Screenshot e Sfocatura PII",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Screenshot leggero MV3, editor con sfocatura PII, pagina intera e registratore WebM senza tracciamento.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SnapForge — Screenshot & PII-Schwärzung",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SnapForge",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Leichter MV3-Screenshot, PII-Unschärfe-Editor, Ganzseiten-Aufnahme und WebM-Rekorder ohne Tracking.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}
